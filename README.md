@@ -1,7 +1,4 @@
-<!-- This repository is a template -->
-<!-- To use it for your project, search for every comment line and follow instructions -->
-
-# Private Bee Template <!-- Change the title with your project's name -->
+# Private Bee BeeCoin
 
 ## Project Description 
 
@@ -23,8 +20,18 @@ The system computes the **optimal trajectory** not only in **space** but also in
 
 ## Repository Purpose
 
-<!-- Complete with the repository purpose and explain what part of the Private Bee project this repository covers -->
+This repository integrates the blockchain and cryptocurrency framework designed to secure and monetize the GPS 4D ecosystem. Its goal is to provide a decentralized ledger that ensures absolute data integrity, automates service payments, and creates a trustless environment for urban air mobility transactions.
 
+Within the Private Bee ecosystem, this repository focuses on:
+
+- Immutable Traceability.
+
+- System Reliability & Consensus: Utilizing cryptographic validation to ensure that all data exchanged between drones, air taxis, and ground stations is authentic and has not been tampered with.
+
+- Automated Remuneration.
+
+- Transaction Security.
+<!--  TO DO: Provide more detailed information for this section  -->
 ---
 
 ## Repository Structure <!-- Adapt the structure with your project's structure -->
@@ -75,7 +82,7 @@ npm run build
 
 Example:
 ```bash
-git clone https://github.com/PrivateBeeTEST/your-repository.git
+git clone https://github.com/PrivateBee/PrivateBee-BeeCoin.git
 cd your-repository
 npm install
 ```
