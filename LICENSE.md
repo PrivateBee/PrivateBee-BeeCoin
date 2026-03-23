@@ -2,6 +2,7 @@ Lesser Open Bee License
 
 Agreement version 1.3
 
+
 This is the second released version of the Lesser Open Bee License.
 
 Copyright 2013 Technoplane SAS, Xavier Dutertre.
